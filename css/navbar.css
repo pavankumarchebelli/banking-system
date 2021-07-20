@@ -1,0 +1,15 @@
+.navbar-brand{
+    color:#c0a2a2;
+    letter-spacing: 0.5px;
+}
+.nav-link{
+	margin-right: 15px;
+	color:#c5ceda;
+	letter-spacing: 0.5px;
+	transition: 0.5s;
+}
+.logo{
+    height: 40px;
+    padding-right: 15px;
+    padding-left: 5px;    
+}
